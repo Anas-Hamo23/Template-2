@@ -1048,7 +1048,7 @@ footer a img {
 footer {
     padding-top: calc(var(--section-padd)/2);
     padding-bottom: calc(var(--section-padd)/2);
-   background-image: url("../imge/00.jpg");
+    background-image: url("../imge/00.jpg");
     background-size: cover;
     position: relative;
     color: white;
