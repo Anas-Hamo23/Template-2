@@ -760,7 +760,7 @@ header nav .form i {
 .qoute {
     padding-top: var(--section-padd);
     padding-bottom: var(--section-padd);
-   background-image: url("../imge/00.jpg");
+    background-image: url("../imge/00.jpg");
     background-size: cover;
     position: relative;
     text-align: center;
